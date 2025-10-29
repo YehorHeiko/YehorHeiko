@@ -45,7 +45,7 @@
 ## 📊 GitHub статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YehorHeiko&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YehorHeiko&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YehorHeiko&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
 </div>
 
